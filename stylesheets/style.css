@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+    height: auto;
+    margin: 0px;
+}
+
+img.head {
+    padding: 0.2em 0 0 1.5em;
+}
+
+h1.head {
+    height: 1.5em;
+    padding: 30px;
+    margin: 0px;
+}
+
+.menu {
+    align: right;
+    text-align: right;
+    font:1.2em Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-right: 3%;
+    font-weight: bold;
+}
