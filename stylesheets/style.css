@@ -5,12 +5,12 @@ body {
 
 header {
     background: #1F6DCC;
-    height: 60%;
+    height: 400px;
     margin: 0px;
 }
 
 div#header {
-    padding: 10% 30% 0 30%;
+    padding: 125px 30% 0 30%;
     text-align: right;
 }
 
